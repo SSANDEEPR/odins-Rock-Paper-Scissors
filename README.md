@@ -1,1 +1,1 @@
-# odin-s-Rock-Paper-Scissors
+# odins-Rock-Paper-Scissors
