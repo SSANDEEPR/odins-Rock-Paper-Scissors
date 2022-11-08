@@ -1,0 +1,17 @@
+*{
+  background-color: white;
+}
+.heading {
+    margin: 50px 0;
+    text-align: center;
+    color: var(--color-sub);
+    font-size: 55px;
+    font-weight: 400;
+  }
+  .button {
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    color: blue;
+  }
